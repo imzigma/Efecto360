@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Fjalla One'
+}
+
+body h1{
+    color: #18171c;
+    font-size: 50px;
+}
+body input {
+    margin-top: 20px;
+    width: 768px;
+}
